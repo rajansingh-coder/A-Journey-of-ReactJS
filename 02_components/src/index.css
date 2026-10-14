@@ -1,0 +1,23 @@
+body{
+  background-color: #111;
+  color: #fff;
+  box-sizing: border-box;
+  margin: 20px;
+}
+div{
+  margin: 10px;
+}
+
+.card{
+  background-color: rgb(184, 93, 32);
+  margin: 20px;
+  border-radius: 10px;
+  
+}
+
+.nav{
+  display: flex;
+  justify-content: space-around;
+  border: 2px  solid rgb(232, 121, 18);
+  background-color: #7c8348;
+}
